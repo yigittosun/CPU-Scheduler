@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="operatingSystemProject.jnlp">
+  <information>
+    <title>operatingSystemProject</title>
+    <vendor>Pc</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="operatingSystemProject.jar" size="7347" download="eager" />
+  </resources>
+  <application-desc main-class="operatingsystemproject.Main"  name="operatingSystemProject" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
